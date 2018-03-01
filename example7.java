@@ -9,7 +9,7 @@ public class example7 {
         int d = 1;
         while (d <= a) {
             if ((a % d) == 0)
-                System.out.print(d + ", ");
+                System.out.print(d + " ");
             d++;
         }
     }
