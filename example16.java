@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class example15 {
+public class example16 {
     public static void main(String[] args) {
         //  System.out.println("Введите количество полок");
         //Scanner scanner = new Scanner(System.in);
